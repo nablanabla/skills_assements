@@ -1,0 +1,1 @@
+web: gunicorn essai_avec_nicegui:app
